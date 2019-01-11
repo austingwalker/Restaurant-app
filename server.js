@@ -20,7 +20,7 @@ app.use(bodyParser.json());
 
 var table = [
     { 
-        customerName: "Austin Walker",
+        customerName: "Austin",
         phoneNumber: "1234567890",
         customerEmail: "email@email.com",
         customerID: "1234"
@@ -34,7 +34,7 @@ var table = [
 ];
 
 var waitingList = [{
-    customerName: "Lauren Witt",
+    customerName: "Lauren",
     phoneNumber: "0987654321",
     customerEmail: "email@email.org",
     customerID: "4321"
